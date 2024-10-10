@@ -17,7 +17,7 @@
 
   ![20220525231716](https://raw.githubusercontent.com/learner-lu/picbed/master/20220525231716.png)
 
-- 替换 `sources/project.config.json` 中的"appid" 为你的appid
+- 替换 `project.config.json` 中的"appid" 为你的appid
 - 使用[微信开发者工具](http://www.ionic.wang/weixin/devtools/download.html)打开根目录
 - 复制你的云开发环境ID,替换 `app.js` 中的env环境名
 
