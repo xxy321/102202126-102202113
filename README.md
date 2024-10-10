@@ -8,7 +8,11 @@
 
 ## 使用方法
 
-- 进入[微信小程序官网](https://mp.weixin.qq.com/cgi-bin/wx),注册,登录
+-解压miniprogram_npm.zip和node_modules.zip，使其和iamge等文件夹在同一个目录下（miniprogram_npm和node_modules两个文件夹）
+![image](https://github.com/user-attachments/assets/ce3dd7ba-8750-4844-b948-6ecc0d5b76d3)
+
+
+-  进入[微信小程序官网](https://mp.weixin.qq.com/cgi-bin/wx),注册,登录
 - 获取你的AppID
 
   ![20220525231716](https://raw.githubusercontent.com/learner-lu/picbed/master/20220525231716.png)
