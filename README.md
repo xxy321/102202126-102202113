@@ -31,7 +31,8 @@
 
 - 新建数据库表, `project` `chat_user` 和 `chat_record` ,数据权限改为所有的人可读写
 
-  ![image-20241010170430645](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20241010170430645.png)
+![屏幕截图 2024-10-10 170428](https://github.com/user-attachments/assets/94695e5b-616a-4fca-8f27-40e8257b9402)
+
 
 - 全部清除缓存，重新编译此项目,开始聊天吧!
 
@@ -45,7 +46,8 @@
 
 本来是要上传二维码的图片，可是微信小程序需要发布才能申请二维码，我们在尝试申请过后被驳回
 
-![image-20241010171046172](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20241010171046172.png)
+![屏幕截图 2024-10-10 171044](https://github.com/user-attachments/assets/d9962987-54d1-4e46-80ce-887e7f56aaa9)
+
 
 如果检查时上述代码无法运行，请联系微信号：Chen_onno，添加微信，协商分享屏幕演示
 
